@@ -1,0 +1,22 @@
+[12-May-2017 13:39:20 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'lkmm-td'@'cpanelx.petra.ac.id' (using password: YES) in /home/lkmmtd/public_html/phenphen/include/sambung.php on line 8
+[12-May-2017 13:39:20 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/lkmmtd/public_html/phenphen/include/sambung.php on line 11
+[11-Jun-2017 14:31:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 71
+[11-Jun-2017 14:31:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:31:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:31:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:31:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:32:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:33:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:33:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:33:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:33:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:33:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:33:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 68
+[11-Jun-2017 14:34:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
+[11-Jun-2017 14:34:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/lkmmtd/public_html/phenphen/admin/login.php on line 84
